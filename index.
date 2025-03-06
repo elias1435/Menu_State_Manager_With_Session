@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>State Manager Menu</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    
+
+    <ul class="main-menu">
+        <li>
+            <a href="#">Parent 1</a>
+            <ul class="sub-menu">
+                <li><a href="#">Submenu 1-1</a></li>
+                <li><a href="#">Submenu 1-2</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#">Parent 2</a>
+            <ul class="sub-menu">
+                <li><a href="#">Submenu 2-1</a></li>
+                <li><a href="#">Submenu 2-2</a></li>
+            </ul>
+        </li>
+    </ul>
+
+
+</body>
+</html>
