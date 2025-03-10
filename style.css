@@ -1,0 +1,11 @@
+.sub-menu {
+    display: none;
+    padding-left: 14px;
+    list-style: none;
+}
+.current-menu-ancestor .sub-menu {
+    display: block !important;
+}
+li.current-menu-item {
+    font-style: italic !important;
+}
